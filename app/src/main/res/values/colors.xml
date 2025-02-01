@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFBD00</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="_bg__homepage_color">#4A4242</color>
+    <color name="favorite_ek1_color">#000000</color>
+    <color name="rectangle_85_color">#FFFFFF</color>
+    <color name="rectangle_95_color">#332600</color>
+    <color name="lorem_ipsum_dolor_sit_amet_color">#BCBCBC</color>
+    <color name="rectangle_85_ek1_color">#CBCBCB</color>
+    <color name="rectangle_14_color">#C4C4C4</color>
+    <color name="ellipse_739_color">#ffffff</color>
+    <color name="navbar_bar_bottom_color">#FFBD00</color>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="app_name">Aplikasi Homepage</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="favorite_ek1_string">Favorite</string>
+    <string name="rp__35_000_string">Rp. 35,000</string>
+    <string name="lorem_ipsum_dolor_sit_amet_string">Lorem ipsum dolor sit amet</string>
+    <string name="latte_moccacino_ek1_string">Latte Moccacino</string>
+    <string name="rp__35_000_ek1_string">Rp. 35,000</string>
+    <string name="lorem_ipsum_dolor_sit_amet_ek1_string">Lorem ipsum dolor sit amet</string>
+    <string name="chocolate_milkshake_ek1_string">Chocolate Milkshake</string>
+    <string name="recommended_ek1_string">Recommended</string>
+    <string name="foods_ek1_string">Foods</string>
+    <string name="coffee_string">Coffee</string>
+    <string name="drink_string">Drink</string>
+    <string name="food_string">Food</string>
+    <string name="teks2_string">What did you want to eat today?</string>
+    <string name="teks1_string">Welcome Rafli</string>
+    <string name="search_text_string">Search</string>
+</resources>
